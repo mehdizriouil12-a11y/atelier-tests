@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1794935135710" clover="3.2.0">
-  <project timestamp="1794935135710" name="All files">
-    <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0" elements="4" coveredelements="2" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
-    <file name="panier.js" path="C:\Users\mehdi\Desktop\Atelier Test\src\panier.js">
-      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+<coverage generated="1794935545467" clover="3.2.0">
+  <project timestamp="1794935545467" name="All files">
+    <metrics statements="11" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="3" elements="17" coveredelements="15" complexity="0" loc="11" ncloc="11" packages="1" files="3" classes="3"/>
+    <file name="commande.js" path="C:\Users\mehdi\Desktop\Atelier Test\src\commande.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="3" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+    <file name="mailer.js" path="C:\Users\mehdi\Desktop\Atelier Test\src\mailer.js">
+      <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+    </file>
+    <file name="panier.js" path="C:\Users\mehdi\Desktop\Atelier Test\src\panier.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>
