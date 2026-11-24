@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1794935834103" clover="3.2.0">
-  <project timestamp="1794935834103" name="All files">
+<coverage generated="1795483131150" clover="3.2.0">
+  <project timestamp="1795483131151" name="All files">
     <metrics statements="11" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="3" elements="17" coveredelements="15" complexity="0" loc="11" ncloc="11" packages="1" files="3" classes="3"/>
     <file name="commande.js" path="C:\Users\mehdi\Desktop\Atelier Test\src\commande.js">
       <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
